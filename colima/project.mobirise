@@ -113,8 +113,9 @@
               "src": "@PROJECT_PATH@/assets/images/28359-201-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "http://ferreterialacolima.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -122,7 +123,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ferretería La Colima</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://ferreterialacolima.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ferretería La Colima</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-1"
         },
@@ -449,7 +450,7 @@
           "title1": "Herramientas manuales",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Todo tipo de herramienta que te haga falta, barrenos, sierras caladoras, bombas para fumigar, etc.",
-          "title2": "Responsive",
+          "title2": "Para remodelar tu hogar",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Brochas, pinturas, rodillos, y demás herramientas para remodelar tú hogar.",
           "title3": "Te cotizamos tu proyecto",
@@ -506,7 +507,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "CONTACT FORM",
+          "title": "¡CONTÁCTANOS!",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
